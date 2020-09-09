@@ -30,7 +30,7 @@ $ npm install
 $ npm run dev
 ```
 
-### developed with 💗 by [Tami Ribeiro] 🦩
+developed with 💗 by [Tami Ribeiro] 🦩
 
 [Tami Ribeiro]:https://www.linkedin.com/in/tami-ribeiro-b9b637178/
 [HTML]:https://developer.mozilla.org/pt-BR/docs/Web/HTML
